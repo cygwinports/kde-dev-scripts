@@ -1,0 +1,12 @@
+inherit kde4
+
+NAME="kde-dev-scripts"
+VERSION=4.11.5
+RELEASE=1
+CATEGORY="Devel"
+SUMMARY="KDE developer scripts"
+DESCRIPTION="Part of the KDE developer tools suite"
+
+OBSOLETES="kdesdk-scripts"
+
+ARCH=noarch
